@@ -8,4 +8,10 @@
  function howManyBottles(cost,money){
 
     console.log(`you can get ${howManyBottles} of milk `);
+
+    //15.00% need to figure out how to get change
+    
+    console.log(`You will take home ${changeTakeHome} in change`);
  }
+ howManyBottles();
+ howMuchChange();
